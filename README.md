@@ -1,8 +1,6 @@
 # 💫 About Me:
 Senior AI Platform Engineer | LLM Gateways, Guardrails & Cost Governance | Python, Django & FastAPI
 
-Full Stack Developer | Python & JavaScript | Django, React, Flask | Backend APIs, Frontend UI | Automation & AI Integration - Because who need humans!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khawar-jahangir-7b4905246/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khawarjahangir99@gmail.com) 
