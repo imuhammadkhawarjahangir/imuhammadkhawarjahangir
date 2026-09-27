@@ -18,22 +18,33 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+
+      # Pinned to a commit; core_version "" uses the core library version locked in that commit (2.2.0)
       - name: GitHub Stats
-        uses: lowlighter/metrics@latest
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
-          filename: metrics/github-stats.svg
+          card: stats
+          options: username=imuhammadkhawarjahangir&theme=dark&hide_border=false&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+          path: metrics/github-stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories
-          repositories_affiliations: owner, collaborator, organization_member
+          core_version: ""
+          fail_on_error: true
 
       - name: Most Used Languages
-        uses: lowlighter/metrics@latest
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
-          filename: metrics/top-langs.svg
+          card: top-langs
+          options: username=imuhammadkhawarjahangir&theme=dark&hide_border=false&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+          path: metrics/top-langs.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          repositories_affiliations: owner, collaborator, organization_member
-          plugin_languages: yes
-          plugin_languages_sections: most-used
-          plugin_languages_details: percentage
-          plugin_languages_limit: 8
+          core_version: ""
+          fail_on_error: true
+
+      - name: Commit images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics/*.svg
+          git commit -m "Update metrics images [skip ci]" || exit 0
+          git push
