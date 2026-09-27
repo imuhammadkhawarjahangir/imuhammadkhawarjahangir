@@ -76,9 +76,11 @@ Senior AI Platform Engineer | LLM Gateways, Guardrails & Cost Governance | Pytho
 
 # 📊 GitHub Stats:
 <p align="center">
+  <img src="metrics/github-stats.svg" alt="GitHub Stats" />
+  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=imuhammadkhawarjahangir&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=imuhammadkhawarjahangir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="metrics/top-langs.svg" alt="Most Used Languages" />
 </p>
 
 ---
