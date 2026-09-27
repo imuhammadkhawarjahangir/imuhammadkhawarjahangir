@@ -2,9 +2,6 @@
 Senior AI Platform Engineer | LLM Gateways, Guardrails & Cost Governance | Python, Django & FastAPI
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khawar-jahangir-7b4905246/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khawarjahangir99@gmail.com) 
-
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -85,9 +82,12 @@ Senior AI Platform Engineer | LLM Gateways, Guardrails & Cost Governance | Pytho
 </p>
 
 ---
-<p align="right">
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-khawar-jahangir-7b4905246/">
+    <img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=imuhammadkhawarjahangir&label=Profile%20views&color=007ACC&style=for-the-badge" alt="Profile Views" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=imuhammadkhawarjahangir&label=Profile%20views&color=007ACC&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
