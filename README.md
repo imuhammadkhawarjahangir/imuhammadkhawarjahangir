@@ -1,9 +1,6 @@
 # 💫 About Me:
-Full Stack Developer | Python & JavaScript | Django, React, Flask | Backend APIs, Frontend UI | Automation & AI Integration - Because who need humans!
+Senior AI Platform Engineer | LLM Gateways, Guardrails & Cost Governance | Python, Django & FastAPI
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-khawar-jahangir-7b4905246/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khawarjahangir99@gmail.com) 
 
 # 💻 Tech Stack:
 <p align="center">
@@ -79,17 +76,20 @@ Full Stack Developer | Python & JavaScript | Django, React, Flask | Backend APIs
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=imuhammadkhawarjahangir&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="metrics/github-stats.svg" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=imuhammadkhawarjahangir&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=imuhammadkhawarjahangir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="metrics/top-langs.svg" alt="Most Used Languages" />
 </p>
 
 ---
-<p align="right">
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-khawar-jahangir-7b4905246/">
+    <img align="left" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=imuhammadkhawarjahangir&label=Profile%20views&color=007ACC&style=for-the-badge" alt="Profile Views" />
+    <img align="right" src="https://komarev.com/ghpvc/?username=imuhammadkhawarjahangir&label=Profile%20views&color=007ACC&style=for-the-badge" alt="Profile Views" />
   </a>
 </p>
 
