@@ -1,4 +1,6 @@
 # 💫 About Me:
+Senior AI Platform Engineer | LLM Gateways, Guardrails & Cost Governance | Python, Django & FastAPI
+
 Full Stack Developer | Python & JavaScript | Django, React, Flask | Backend APIs, Frontend UI | Automation & AI Integration - Because who need humans!
 
 
