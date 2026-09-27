@@ -1,8 +1,8 @@
-# 💫 About Me:
+## 💫 About Me:
 Senior AI Platform Engineer | LLM Gateways, Guardrails & Cost Governance | Python, Django & FastAPI
 
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -74,7 +74,7 @@ Senior AI Platform Engineer | LLM Gateways, Guardrails & Cost Governance | Pytho
   <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="nVIDIA" />
 </p>
 
-## 📊 GitHub Stats:
+### 📊 GitHub Stats:
 <p align="center">
   <img src="metrics/github-stats.svg" alt="GitHub Stats" />
   <br/><br/>
