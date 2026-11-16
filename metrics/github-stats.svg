@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Muhammad Khawar Jahangir&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  : 2422, Total PRs: 778, Total Issues: 37, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  : 2449, Total PRs: 783, Total Issues: 37, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 123.74779965481183;
+        stroke-dashoffset: 123.60279345904425;
       }
     }
   
@@ -187,7 +187,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >778</text>
+      >783</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
